@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Developer Sharif</h1>
 <h3 align="center">MERN Stack Web Developer.</h3>
-<img align="center" alt="coding" width="700" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
+<img align="center" alt="coding" width="700" height="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developersharif1919&label=Profile%20views&color=0e75b6&style=flat" alt="developersharif1919" /> </p>
 
